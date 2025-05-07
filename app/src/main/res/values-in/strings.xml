@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UTS-222102510</string>
+    <string name="informasi">Informasi</string>
+    <string-array name="jeniskelamin">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>

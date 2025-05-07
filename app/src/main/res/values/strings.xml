@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS-222102510</string>
+    <string name="informasi">Information</string>
+    <string-array name="jeniskelamin">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
